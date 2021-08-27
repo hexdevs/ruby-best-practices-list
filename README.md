@@ -3,7 +3,7 @@
 A list of well-written Ruby codebases and resources to help you extract the best practices.
 
 ---
-## Open-source projects 💻
+## Open-Source Projects 💻
 - [Upcase by thoughtbot](https://github.com/thoughtbot/upcase)
 - [dry-rb/dry-validation](https://github.com/dry-rb/dry-validation)
 - [fog](https://github.com/fog/fog)
@@ -14,7 +14,7 @@ A list of well-written Ruby codebases and resources to help you extract the best
 - [The Doctrine of Useful Objects](http://docs.eventide-project.org/user-guide/useful-objects.html)
 
 ### Courses 📺
-- [Upcase Clean-Code Series](https://thoughtbot.com/upcase/clean-code)
+- [Clean-Code Series - Upcase](https://thoughtbot.com/upcase/clean-code)
 - [Sandi Metz's Rules - Upcase](https://thoughtbot.com/upcase/videos/sandi-metzs-rules)
 
 ## Books 🔖
