@@ -6,6 +6,7 @@ A list of well-written Ruby codebases and resources to help you extract the best
 ## Open-source projects 💻
 - [Upcase by thoughtbot](https://github.com/thoughtbot/upcase)
 - [dry-rb/dry-validation](https://github.com/dry-rb/dry-validation)
+- [fog](https://github.com/fog/fog)
 
 ## Articles 📰
 - [Learn Ruby on Rails Best Practices With One Exercise 🍝](https://www.thd.codes/posts/learn-ruby-best-practices-with-one-exercise/)
@@ -14,9 +15,14 @@ A list of well-written Ruby codebases and resources to help you extract the best
 
 ### Courses 📺
 - [Upcase Clean-Code Series](https://thoughtbot.com/upcase/clean-code)
+- [Sandi Metz's Rules - Upcase](https://thoughtbot.com/upcase/videos/sandi-metzs-rules)
 
 ## Books 🔖
 - [Practical Object-Oriented Design (POODR)](https://sandimetz.com/products#product-poodr)
+
+### Talks
+- [Polly want a message - Sandi Metz](https://www.youtube.com/watch?v=XXi_FBrZQiU)
+- [Get a Whiff of This - Sandi Metz](https://www.youtube.com/watch?v=PJjHfa5yxlU)
 
 ---
 List compiled by [hexdevs](https://www.hexdevs.com).
