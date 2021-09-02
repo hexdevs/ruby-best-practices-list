@@ -7,6 +7,7 @@ A list of well-written Ruby codebases and resources to help you extract the best
 - [Upcase by thoughtbot](https://github.com/thoughtbot/upcase)
 - [dry-rb/dry-validation](https://github.com/dry-rb/dry-validation)
 - [fog](https://github.com/fog/fog)
+- [Sustainable Rails Template](https://github.com/davetron5000/rails-app-template-sustainable)
 
 ## Articles 📰
 - [Learn Ruby on Rails Best Practices With One Exercise 🍝](https://www.thd.codes/posts/learn-ruby-best-practices-with-one-exercise/)
@@ -19,6 +20,7 @@ A list of well-written Ruby codebases and resources to help you extract the best
 
 ## Books 🔖
 - [Practical Object-Oriented Design (POODR)](https://sandimetz.com/products#product-poodr)
+- [Sustainable Web Development with Ruby on Rails](https://sustainable-rails.com/)
 
 ### Talks
 - [Polly want a message - Sandi Metz](https://www.youtube.com/watch?v=XXi_FBrZQiU)
