@@ -14,7 +14,7 @@ A list of well-written Ruby codebases and resources to help you extract the best
 - [Sandi Metz' Rules For Developers](https://thoughtbot.com/blog/sandi-metz-rules-for-developers)
 - [The Doctrine of Useful Objects](http://docs.eventide-project.org/user-guide/useful-objects.html)
 
-### Courses 📺
+## Courses 📺
 - [Clean-Code Series - Upcase](https://thoughtbot.com/upcase/clean-code)
 - [Sandi Metz's Rules - Upcase](https://thoughtbot.com/upcase/videos/sandi-metzs-rules)
 
@@ -22,9 +22,13 @@ A list of well-written Ruby codebases and resources to help you extract the best
 - [Practical Object-Oriented Design (POODR)](https://sandimetz.com/products#product-poodr)
 - [Sustainable Web Development with Ruby on Rails](https://sustainable-rails.com/)
 
-### Talks
+## Talks
 - [Polly want a message - Sandi Metz](https://www.youtube.com/watch?v=XXi_FBrZQiU)
 - [Get a Whiff of This - Sandi Metz](https://www.youtube.com/watch?v=PJjHfa5yxlU)
+- [Escaping The Tar Pit - Ernesto Tagwerker](https://www.youtube.com/watch?v=ZyU6K6eR-_A)
+
+## Tools
+- [RubyCritic](https://github.com/whitesmith/rubycritic): a gem that wraps around static analysis gems such as Reek, Flay and Flog to provide a quality report of your Ruby code.
 
 ---
 List compiled by [hexdevs](https://www.hexdevs.com).
