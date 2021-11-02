@@ -2,6 +2,8 @@
 
 A list of well-written Ruby codebases and resources to help you extract the best practices.
 
+We suggest you follow [this exercise format](https://www.hexdevs.com/posts/learn-ruby-best-practices-with-one-exercise/#one-exercise-to-teach-you-ruby-on-rails-best-practices) to get the most out of this list.
+
 ---
 ## Open-Source Projects 💻
 - [Upcase by thoughtbot](https://github.com/thoughtbot/upcase)
