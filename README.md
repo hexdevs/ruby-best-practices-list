@@ -31,6 +31,7 @@ We suggest you follow [this exercise format](https://www.hexdevs.com/posts/learn
 
 ## Tools
 - [RubyCritic](https://github.com/whitesmith/rubycritic): a gem that wraps around static analysis gems such as Reek, Flay and Flog to provide a quality report of your Ruby code.
+- [Skunk](https://github.com/fastruby/skunk): A SkunkScore Calculator for Ruby Code -- Find the most complicated code without test coverage! 
 
 ---
 List compiled by [hexdevs](https://www.hexdevs.com).
