@@ -12,7 +12,8 @@ We suggest you follow [this exercise format](https://www.hexdevs.com/posts/learn
 - [Sustainable Rails Template](https://github.com/davetron5000/rails-app-template-sustainable)
 
 ## Articles 📰
-- [Learn Ruby on Rails Best Practices With One Exercise 🍝](https://www.thd.codes/posts/learn-ruby-best-practices-with-one-exercise/)
+- [Learn Ruby on Rails Best Practices With One Exercise 🍝](https://www.hexdevs.com/posts/learn-ruby-best-practices-with-one-exercise/)
+- [How to Improve Code Quality on a Ruby on Rails Application](https://www.hexdevs.com/posts/technical-debt-ruby-on-rails/)
 - [Sandi Metz' Rules For Developers](https://thoughtbot.com/blog/sandi-metz-rules-for-developers)
 - [The Doctrine of Useful Objects](http://docs.eventide-project.org/user-guide/useful-objects.html)
 
