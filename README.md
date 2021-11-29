@@ -24,15 +24,27 @@ We suggest you follow [this exercise format](https://www.hexdevs.com/posts/learn
 ## Books 🔖
 - [Practical Object-Oriented Design (POODR)](https://sandimetz.com/products#product-poodr)
 - [Sustainable Web Development with Ruby on Rails](https://sustainable-rails.com/)
+- [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
 
 ## Talks
 - [Polly want a message - Sandi Metz](https://www.youtube.com/watch?v=XXi_FBrZQiU)
 - [Get a Whiff of This - Sandi Metz](https://www.youtube.com/watch?v=PJjHfa5yxlU)
 - [Escaping The Tar Pit - Ernesto Tagwerker](https://www.youtube.com/watch?v=ZyU6K6eR-_A)
+- [Breaking Up the Behemoth by Sandi Metz](https://sandimetz.com/blog/2017/9/13/breaking-up-the-behemoth)
+- [Makers vs Menders Talk by M. Scott Ford](https://www.youtube.com/watch?v=YW0BpCThjuM)
+
+## Podcasts
+- [hexdevs podcast - Ruby Code Quality with Ernesto Tagwerker](https://www.hexdevs.com/posts/ruby-code-quality-ernesto-tagwerker/)
 
 ## Tools
 - [RubyCritic](https://github.com/whitesmith/rubycritic): a gem that wraps around static analysis gems such as Reek, Flay and Flog to provide a quality report of your Ruby code.
-- [Skunk](https://github.com/fastruby/skunk): A SkunkScore Calculator for Ruby Code -- Find the most complicated code without test coverage! 
+- [Skunk](https://github.com/fastruby/skunk): A SkunkScore Calculator for Ruby Code -- Find the most complicated code without test coverage!
+- [rails_stats - See more stats about a Rails app](https://github.com/fastruby/rails_stats)
+- [metric_fu - A list of code metrics (best practices, code smells, etc.) for Ruby projects](https://github.com/metricfu/metric_fu)
+- [Code Quality Tools - a massive list of code quality tools and metrics for Ruby projects](https://github.com/metricfu/metric_fu/wiki/Code-Tools)
+
+## Challenges
+- [The Code Quality Challenge](https://tuple.app/code-quality-challenge)
 
 ---
 List compiled by [hexdevs](https://www.hexdevs.com).
