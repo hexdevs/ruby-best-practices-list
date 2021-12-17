@@ -15,6 +15,7 @@ We suggest you follow [this exercise format](https://www.hexdevs.com/posts/learn
 - [Learn Ruby on Rails Best Practices With One Exercise 🍝](https://www.hexdevs.com/posts/learn-ruby-best-practices-with-one-exercise/)
 - [How to Improve Code Quality on a Ruby on Rails Application](https://www.hexdevs.com/posts/technical-debt-ruby-on-rails/)
 - [Sandi Metz' Rules For Developers](https://thoughtbot.com/blog/sandi-metz-rules-for-developers)
+- [Breaking Up the Behemoth by Sandi Metz](https://sandimetz.com/blog/2017/9/13/breaking-up-the-behemoth)
 - [The Doctrine of Useful Objects](http://docs.eventide-project.org/user-guide/useful-objects.html)
 
 ## Courses 📺
@@ -26,24 +27,23 @@ We suggest you follow [this exercise format](https://www.hexdevs.com/posts/learn
 - [Sustainable Web Development with Ruby on Rails](https://sustainable-rails.com/)
 - [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
 
-## Talks
+## Talks🎤
 - [Polly want a message - Sandi Metz](https://www.youtube.com/watch?v=XXi_FBrZQiU)
 - [Get a Whiff of This - Sandi Metz](https://www.youtube.com/watch?v=PJjHfa5yxlU)
 - [Escaping The Tar Pit - Ernesto Tagwerker](https://www.youtube.com/watch?v=ZyU6K6eR-_A)
-- [Breaking Up the Behemoth by Sandi Metz](https://sandimetz.com/blog/2017/9/13/breaking-up-the-behemoth)
 - [Makers vs Menders Talk by M. Scott Ford](https://www.youtube.com/watch?v=YW0BpCThjuM)
 
-## Podcasts
+## Podcasts 🎧
 - [hexdevs podcast - Ruby Code Quality with Ernesto Tagwerker](https://www.hexdevs.com/posts/ruby-code-quality-ernesto-tagwerker/)
 
-## Tools
+## Tools 🧰
 - [RubyCritic](https://github.com/whitesmith/rubycritic): a gem that wraps around static analysis gems such as Reek, Flay and Flog to provide a quality report of your Ruby code.
 - [Skunk](https://github.com/fastruby/skunk): A SkunkScore Calculator for Ruby Code -- Find the most complicated code without test coverage!
 - [rails_stats - See more stats about a Rails app](https://github.com/fastruby/rails_stats)
 - [metric_fu - A list of code metrics (best practices, code smells, etc.) for Ruby projects](https://github.com/metricfu/metric_fu)
 - [Code Quality Tools - a massive list of code quality tools and metrics for Ruby projects](https://github.com/metricfu/metric_fu/wiki/Code-Tools)
 
-## Challenges
+## Challenges 🛠️
 - [The Code Quality Challenge](https://tuple.app/code-quality-challenge)
 
 ---
