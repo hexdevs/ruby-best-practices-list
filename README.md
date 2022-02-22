@@ -26,6 +26,9 @@ We suggest you follow [this exercise format](https://www.hexdevs.com/posts/learn
 - [Practical Object-Oriented Design (POODR)](https://sandimetz.com/products#product-poodr)
 - [Sustainable Web Development with Ruby on Rails](https://sustainable-rails.com/)
 - [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
+- [Exceptional Ruby](https://store.avdi.codes/l/NWtnk)
+- [Refactoring: Ruby Edition](https://martinfowler.com/books/refactoringRubyEd.html)
+- [Working Effectively with Legacy Code](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code)
 
 ## Talks🎤
 - [Polly want a message - Sandi Metz](https://www.youtube.com/watch?v=XXi_FBrZQiU)
