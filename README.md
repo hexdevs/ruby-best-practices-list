@@ -49,5 +49,9 @@ We suggest you follow [this exercise format](https://www.hexdevs.com/posts/learn
 ## Challenges 🛠️
 - [The Code Quality Challenge](https://tuple.app/code-quality-challenge)
 
+## Cheat Sheets 🔍
+- [Smells to Refactorings Quick Reference Guide](https://www.industriallogic.com/img/blog/2005/09/smellstorefactorings.pdf)
+
 ---
 List compiled by [hexdevs](https://www.hexdevs.com).
+Have a suggestion or a question? Discussions are welcomed [here](https://github.com/hexdevs/ruby-best-practices-list/discussions/1).
