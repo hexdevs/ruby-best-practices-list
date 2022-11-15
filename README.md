@@ -23,6 +23,7 @@ We suggest you follow [this exercise format](https://www.hexdevs.com/posts/learn
 - [Sandi Metz's Rules - Upcase](https://thoughtbot.com/upcase/videos/sandi-metzs-rules)
 
 ## Books 🔖
+- [Ruby Science - The reference for writing fantastic Rails applications](https://github.com/thoughtbot/ruby-science)
 - [Practical Object-Oriented Design (POODR)](https://sandimetz.com/products#product-poodr)
 - [Sustainable Web Development with Ruby on Rails](https://sustainable-rails.com/)
 - [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
