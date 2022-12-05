@@ -39,12 +39,16 @@ We suggest you follow [this exercise format](https://www.hexdevs.com/posts/learn
 
 ## Podcasts 🎧
 - [hexdevs podcast - Ruby Code Quality with Ernesto Tagwerker](https://www.hexdevs.com/posts/ruby-code-quality-ernesto-tagwerker/)
+- [hexdevs podcast - Building Technical Wealth and Improving Legacy Code with M. Scott Ford](https://www.hexdevs.com/posts/building-technical-wealth-legacy-code-m-scott-ford/)
 
 ## Tools 🧰
 - [RubyCritic](https://github.com/whitesmith/rubycritic): a gem that wraps around static analysis gems such as Reek, Flay and Flog to provide a quality report of your Ruby code.
 - [Skunk](https://github.com/fastruby/skunk): A SkunkScore Calculator for Ruby Code -- Find the most complicated code without test coverage!
 - [rails_stats - See more stats about a Rails app](https://github.com/fastruby/rails_stats)
 - [metric_fu - A list of code metrics (best practices, code smells, etc.) for Ruby projects](https://github.com/metricfu/metric_fu)
+- [Coverband](https://github.com/danmayer/coverband) - Ruby production code coverage collection and reporting (line of code usage)
+- [Sonarqube](https://www.sonarqube.org/) - Thousands of automated Static Code Analysis rules, protecting your app on multiple fronts, and guiding your team.
+- [CodeScene](https://codescene.com/) - One tool to visualise, understand and improve your software when it comes to code, knowledge and people behind it. 
 - [Code Quality Tools - a massive list of code quality tools and metrics for Ruby projects](https://github.com/metricfu/metric_fu/wiki/Code-Tools)
 
 ## Challenges 🛠️
