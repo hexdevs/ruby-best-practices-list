@@ -1,8 +1,8 @@
 # Ruby Best Practices List 📚
 
-A list of well-written Ruby codebases and resources to help you extract the best practices.
+A list of well-written Ruby codebases and resources to help you extract and apply best practices in your Ruby apps.
 
-We suggest you follow [this exercise format](https://www.hexdevs.com/posts/learn-ruby-best-practices-with-one-exercise/#one-exercise-to-teach-you-ruby-on-rails-best-practices) to get the most out of this list.
+For the exercises, we suggest you follow [this exercise format](https://www.hexdevs.com/posts/learn-ruby-best-practices-with-one-exercise/#one-exercise-to-teach-you-ruby-on-rails-best-practices) to get the most out of this list.
 
 ---
 ## Open-Source Projects 💻
@@ -17,6 +17,10 @@ We suggest you follow [this exercise format](https://www.hexdevs.com/posts/learn
 - [Sandi Metz' Rules For Developers](https://thoughtbot.com/blog/sandi-metz-rules-for-developers)
 - [Breaking Up the Behemoth by Sandi Metz](https://sandimetz.com/blog/2017/9/13/breaking-up-the-behemoth)
 - [The Doctrine of Useful Objects](http://docs.eventide-project.org/user-guide/useful-objects.html)
+
+## Papers
+
+- [Defining, Measuring, and Managing Technical Debt](https://www.computer.org/csdl/magazine/so/2023/03/10109339/1MESXKyAYNO)
 
 ## Courses 📺
 - [Clean-Code Series - Upcase](https://thoughtbot.com/upcase/clean-code)
